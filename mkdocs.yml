@@ -19,7 +19,7 @@ theme:
 
 nav:
   - Home:
-    - Home: index.md
+    - index.md
   - Insert Data:
     - Insert Data: Insert/data_insert.md
       
