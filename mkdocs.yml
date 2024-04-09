@@ -19,7 +19,9 @@ theme:
 
 nav:
   - Home:
-    - index.md
+    - Home: index.md
+  - Insert Data:
+    - Insert Data: insert_data.md
       
 
 extra:
