@@ -21,7 +21,7 @@ nav:
   - Home:
     - Home: index.md
   - Insert Data:
-    - Insert Data: Insert/insert_data.md
+    - Insert Data: Insert/data_insert.md
       
 
 extra:
