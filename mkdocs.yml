@@ -20,7 +20,7 @@ theme:
 nav:
   - Home:
     - index.md
-  - Insert .github.io.github.io:
+  - Insert:
     - Insert : Insert/data_insert.md
       
 
