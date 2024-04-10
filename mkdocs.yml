@@ -1,4 +1,4 @@
-site_name: DataStructure
+site_name: Hygraph_Insert
 
 theme:
   name: material
@@ -10,7 +10,7 @@ theme:
 
   icon:
     logo: material/network
-    favicon: material/datastructure
+    favicon: material/Hygraph_Insert
 
   features:
     - content.tabs.link

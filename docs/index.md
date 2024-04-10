@@ -1,8 +1,6 @@
 ![alt text](image.png)
 ## Hygraph: Unleash the Power of GraphQL Headless CMS
 
-*A Stylish Guide to Data Management and Integration*
-
 Hygraph empowers you to build modern, content-driven applications with its robust GraphQL headless CMS. This documentation delves into the core functionalities, guiding you through data insertion and showcasing its power in programmatic interaction.
 
 **Getting Started with Hygraph**
