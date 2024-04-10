@@ -1,4 +1,4 @@
-site_name: Hygraph_Insert
+site_name: DataStructure
 
 theme:
   name: material
@@ -10,7 +10,7 @@ theme:
 
   icon:
     logo: material/network
-    favicon: material/Hygraph_Insert
+    favicon: material/datastructure
 
   features:
     - content.tabs.link
@@ -19,9 +19,9 @@ theme:
 
 nav:
   - Home:
-    - index.md
-  - Insert:
-    - Insert : Insert/data_insert.md
+    - Hygraph_Insert: index.md
+  - Insert_Data:
+    - Insert/index.md
       
 
 extra:
